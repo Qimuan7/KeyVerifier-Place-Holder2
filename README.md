@@ -27,7 +27,7 @@ For me, I just don't like the fact that PlayStore installs these two apps on any
 I feel like I should apologize because I don't know how to use GitHub, but I saw that changing files after forking seemed to affect the main repository of my fork (not my own repository), so to avoid causing trouble for that developer(@daboynb), I created a new repository.
 
 ### [i will delete if it infringes ur rights]
-If it infringes your rights, please tell me and I will delete it immediately (if I see the notification in time). In addition, I will only install it on my own devices and share it with users in need. I will not do anything else.
+If it infringes your rights, please tell me and I will delete it immediately (if I see the notification in time). In addition, I will only install it on my own devices and share it with users in need like now. I will not do anything else.
 
 ### [it's size bigger than the source]
 Plz forgive my unfamiliarity with Android Studio (so I simply changed the package name), so the app's size is significantly larger than the original. I'm unsure how to reduce it, so for the sake of proper installation, I decided to leave it as is.
