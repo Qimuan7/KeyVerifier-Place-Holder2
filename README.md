@@ -5,8 +5,8 @@ A blank apk to avoid PlayStore automatically installing Android System Key Verif
 <img width="713" height="1174" alt="Screenshot 2025-10-15 074321" src="https://github.com/user-attachments/assets/b1886238-2df5-47a5-8477-a6e7dc2acf7d" />
 
 # [NOTICE]
-THIS IS NOT MY WORK, IT'S SOURCE FROM => https://github.com/daboynb/Safetycore-placeholder
-So if you like this app, plz give him all the praise！
+## THIS IS NOT MY WORK, IT'S SOURCE FROM => https://github.com/daboynb/Safetycore-placeholder
+## So if you like this app, plz give him all the praise！
 
 # [What it use for?]
 It is an empty installation package that replaces the KeyVerifier App automatically downloaded by PlayStore.
